@@ -1,0 +1,6 @@
+node_modules/
+.env
+out/
+results/
+data/downloads/
+__pycache__/

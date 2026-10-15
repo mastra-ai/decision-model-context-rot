@@ -1,0 +1,502 @@
+[
+  [
+    "Niger",
+    "Niamey",
+    "Dili"
+  ],
+  [
+    "Timor-Leste",
+    "Dili",
+    "Funafuti"
+  ],
+  [
+    "Tuvalu",
+    "Funafuti",
+    "Managua"
+  ],
+  [
+    "Nicaragua",
+    "Managua",
+    "Luanda"
+  ],
+  [
+    "Angola",
+    "Luanda",
+    "Vientiane"
+  ],
+  [
+    "Laos",
+    "Vientiane",
+    "Warsaw"
+  ],
+  [
+    "Poland",
+    "Warsaw",
+    "Bamako"
+  ],
+  [
+    "Mali",
+    "Bamako",
+    "Reykjavik"
+  ],
+  [
+    "Iceland",
+    "Reykjavik",
+    "Brazzaville"
+  ],
+  [
+    "Congo",
+    "Brazzaville",
+    "Abu Dhabi"
+  ],
+  [
+    "United Arab Emirates",
+    "Abu Dhabi",
+    "Kathmandu"
+  ],
+  [
+    "Nepal",
+    "Kathmandu",
+    "Podgorica"
+  ],
+  [
+    "Montenegro",
+    "Podgorica",
+    "Bangui"
+  ],
+  [
+    "Central African Republic",
+    "Bangui",
+    "Montevideo"
+  ],
+  [
+    "Uruguay",
+    "Montevideo",
+    "Jerusalem"
+  ],
+  [
+    "Israel",
+    "Jerusalem",
+    "Thimphu"
+  ],
+  [
+    "Bhutan",
+    "Thimphu",
+    "Port-au-Prince"
+  ],
+  [
+    "Haiti",
+    "Port-au-Prince",
+    "Bandar Seri Begawan"
+  ],
+  [
+    "Brunei",
+    "Bandar Seri Begawan",
+    "Tegucigalpa"
+  ],
+  [
+    "Honduras",
+    "Tegucigalpa",
+    "Nuku'alofa"
+  ],
+  [
+    "Tonga",
+    "Nuku'alofa",
+    "Addis Ababa"
+  ],
+  [
+    "Ethiopia",
+    "Addis Ababa",
+    "Vatican City"
+  ],
+  [
+    "Vatican City",
+    "Vatican City",
+    "Georgetown"
+  ],
+  [
+    "Guyana",
+    "Georgetown",
+    "Kyiv"
+  ],
+  [
+    "Ukraine",
+    "Kyiv",
+    "Bangkok"
+  ],
+  [
+    "Thailand",
+    "Bangkok",
+    "Moscow"
+  ],
+  [
+    "Russia",
+    "Moscow",
+    "Bucharest"
+  ],
+  [
+    "Romania",
+    "Bucharest",
+    "Yaren"
+  ],
+  [
+    "Nauru",
+    "Yaren",
+    "Tbilisi"
+  ],
+  [
+    "Georgia",
+    "Tbilisi",
+    "Lusaka"
+  ],
+  [
+    "Zambia",
+    "Lusaka",
+    "Malabo"
+  ],
+  [
+    "Equatorial Guinea",
+    "Malabo",
+    "Valletta"
+  ],
+  [
+    "Malta",
+    "Valletta",
+    "Chișinău"
+  ],
+  [
+    "Moldova",
+    "Chișinău",
+    "City of San Marino"
+  ],
+  [
+    "San Marino",
+    "City of San Marino",
+    "Asmara"
+  ],
+  [
+    "Eritrea",
+    "Asmara",
+    "Honiara"
+  ],
+  [
+    "Solomon Islands",
+    "Honiara",
+    "Belmopan"
+  ],
+  [
+    "Belize",
+    "Belmopan",
+    "Belgrade"
+  ],
+  [
+    "Serbia",
+    "Belgrade",
+    "Muscat"
+  ],
+  [
+    "Oman",
+    "Muscat",
+    "Kuwait City"
+  ],
+  [
+    "Kuwait",
+    "Kuwait City",
+    "St. George's"
+  ],
+  [
+    "Grenada",
+    "St. George's",
+    "South Tarawa"
+  ],
+  [
+    "Kiribati",
+    "South Tarawa",
+    "Bishkek"
+  ],
+  [
+    "Kyrgyzstan",
+    "Bishkek",
+    "Windhoek"
+  ],
+  [
+    "Namibia",
+    "Windhoek",
+    "San Salvador"
+  ],
+  [
+    "El Salvador",
+    "San Salvador",
+    "Algiers"
+  ],
+  [
+    "Algeria",
+    "Algiers",
+    "Bridgetown"
+  ],
+  [
+    "Barbados",
+    "Bridgetown",
+    "Damascus"
+  ],
+  [
+    "Syria",
+    "Damascus",
+    "Ashgabat"
+  ],
+  [
+    "Turkmenistan",
+    "Ashgabat",
+    "Ouagadougou"
+  ],
+  [
+    "Burkina Faso",
+    "Ouagadougou",
+    "Sarajevo"
+  ],
+  [
+    "Bosnia and Herzegovina",
+    "Sarajevo",
+    "Antananarivo"
+  ],
+  [
+    "Madagascar",
+    "Antananarivo",
+    "Buenos Aires"
+  ],
+  [
+    "Argentina",
+    "Buenos Aires",
+    "Malé"
+  ],
+  [
+    "Maldives",
+    "Malé",
+    "Freetown"
+  ],
+  [
+    "Sierra Leone",
+    "Freetown",
+    "Yerevan"
+  ],
+  [
+    "Armenia",
+    "Yerevan",
+    "Sucre"
+  ],
+  [
+    "Bolivia",
+    "Sucre",
+    "Conakry"
+  ],
+  [
+    "Guinea",
+    "Conakry",
+    "Tirana"
+  ],
+  [
+    "Albania",
+    "Tirana",
+    "Amsterdam"
+  ],
+  [
+    "Netherlands",
+    "Amsterdam",
+    "Roseau"
+  ],
+  [
+    "Dominica",
+    "Roseau",
+    "São Tomé"
+  ],
+  [
+    "São Tomé and Príncipe",
+    "São Tomé",
+    "Riyadh"
+  ],
+  [
+    "Saudi Arabia",
+    "Riyadh",
+    "Manama"
+  ],
+  [
+    "Bahrain",
+    "Manama",
+    "Praia"
+  ],
+  [
+    "Cape Verde",
+    "Praia",
+    "Helsinki"
+  ],
+  [
+    "Finland",
+    "Helsinki",
+    "Dodoma"
+  ],
+  [
+    "Tanzania",
+    "Dodoma",
+    "Basseterre"
+  ],
+  [
+    "Saint Kitts and Nevis",
+    "Basseterre",
+    "Maseru"
+  ],
+  [
+    "Lesotho",
+    "Maseru",
+    "Astana"
+  ],
+  [
+    "Kazakhstan",
+    "Astana",
+    "Beirut"
+  ],
+  [
+    "Lebanon",
+    "Beirut",
+    "Port Moresby"
+  ],
+  [
+    "Papua New Guinea",
+    "Port Moresby",
+    "Hanoi"
+  ],
+  [
+    "Vietnam",
+    "Hanoi",
+    "Kabul"
+  ],
+  [
+    "Afghanistan",
+    "Kabul",
+    "Colombo"
+  ],
+  [
+    "Sri Lanka",
+    "Colombo",
+    "Phnom Penh"
+  ],
+  [
+    "Cambodia",
+    "Phnom Penh",
+    "Gitega"
+  ],
+  [
+    "Burundi",
+    "Gitega",
+    "Kampala"
+  ],
+  [
+    "Uganda",
+    "Kampala",
+    "Monrovia"
+  ],
+  [
+    "Liberia",
+    "Monrovia",
+    "Baghdad"
+  ],
+  [
+    "Iraq",
+    "Baghdad",
+    "Minsk"
+  ],
+  [
+    "Belarus",
+    "Minsk",
+    "Bissau"
+  ],
+  [
+    "Guinea-Bissau",
+    "Bissau",
+    "Libreville"
+  ],
+  [
+    "Gabon",
+    "Libreville",
+    "Skopje"
+  ],
+  [
+    "North Macedonia",
+    "Skopje",
+    "Tehran"
+  ],
+  [
+    "Iran",
+    "Tehran",
+    "Ulan Bator"
+  ],
+  [
+    "Mongolia",
+    "Ulan Bator",
+    "Majuro"
+  ],
+  [
+    "Marshall Islands",
+    "Majuro",
+    "Juba"
+  ],
+  [
+    "South Sudan",
+    "Juba",
+    "Harare"
+  ],
+  [
+    "Zimbabwe",
+    "Harare",
+    "Ljubljana"
+  ],
+  [
+    "Slovenia",
+    "Ljubljana",
+    "Nassau"
+  ],
+  [
+    "Bahamas",
+    "Nassau",
+    "Manila"
+  ],
+  [
+    "Philippines",
+    "Manila",
+    "Caracas"
+  ],
+  [
+    "Venezuela",
+    "Caracas",
+    "Banjul"
+  ],
+  [
+    "Gambia",
+    "Banjul",
+    "Port Vila"
+  ],
+  [
+    "Vanuatu",
+    "Port Vila",
+    "Zagreb"
+  ],
+  [
+    "Croatia",
+    "Zagreb",
+    "Naypyidaw"
+  ],
+  [
+    "Myanmar",
+    "Naypyidaw",
+    "Asunción"
+  ],
+  [
+    "Paraguay",
+    "Asunción",
+    "Dhaka"
+  ],
+  [
+    "Bangladesh",
+    "Dhaka",
+    "Niamey"
+  ]
+]

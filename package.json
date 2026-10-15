@@ -1,0 +1,17 @@
+{
+  "name": "decision-model-context-rot",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=24" },
+  "packageManager": "pnpm@10.33.0",
+  "scripts": {
+    "generate": "node generate/stacked-cores.mjs && node generate/tasks.mjs && node generate/real-data.mjs && node generate/build-requests.mjs",
+    "runner": "node lib/runner.mts",
+    "score": "python3 score/score.py"
+  },
+  "dependencies": {
+    "@mastra/core": "1.60.0",
+    "hyparquet": "1.31.2",
+    "js-tiktoken": "1.0.21"
+  }
+}
